@@ -1,0 +1,29 @@
+{
+  "properties": [
+    {
+      "type": "java.lang.String",
+      "name": "oauth2.client.client-id",
+      "description": "sso server client-id."
+    },
+    {
+      "type": "java.lang.String",
+      "name": "oauth2.client.client-secret",
+      "description": "sso server  client-secret."
+    },
+    {
+      "type": "java.lang.String",
+      "name": "oauth2.client.sso-server-uri",
+      "description": "sso server uri."
+    },
+    {
+      "type": "java.lang.String",
+      "name": "oauth2.client.redirect-uri",
+      "description": "sso server redirect addr."
+    },
+    {
+      "type": "java.lang.String",
+      "name": "oauth2.client.target-uri",
+      "description": "sso server target addr."
+    }
+  ]
+}
